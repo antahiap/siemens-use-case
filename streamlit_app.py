@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pickle
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 class pred_consumtion:
     def __init__(self, year_now, month_now, length, SM):
         # Linear Regression for yearly
@@ -153,7 +155,6 @@ if __name__ == '__main__':
         # plot the prediction over train, test data
         st.write(f"{model} training vs test data")
 
-        st.set_option('deprecation.showPyplotGlobalUse', False)
         m_name = '_'.join(model.lower().split(' '))
         data_y = pd.read_csv(f"./data/{m_name}_train.csv", sep=',')
         sns.regplot(x='y', y='y_pred', data=data_y, label='Train')
