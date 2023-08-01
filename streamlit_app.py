@@ -75,7 +75,7 @@ def generate_prediction(year, month, length, model, SM):
     m_path = f'model/{m_name}.pkl'
 
     model = load_pickles(m_path)
-    P = pred_consumtion(2023, 5, 24, SM)
+    P = pred_consumtion(year, month,length, SM)
     
     rmse = pd.read_csv("./model/rmse.csv", sep=',')
     rmse_m = rmse[m_name]
@@ -145,7 +145,7 @@ if __name__ == '__main__':
     
     year = col1.selectbox('Year:', year_options)
     month = col2.selectbox('Month:', month_options)
-    length = col3.slider('Forcasting Interval:', min_value=1, max_value=100, value=24)
+    length = col3.slider('Forcasting Interval (No. months):', min_value=1, max_value=100, value=24)
     
     # generate the prediction
     if st.button("Predict Consumtion"):
