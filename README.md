@@ -16,7 +16,7 @@ pip install -r requirements.txt
 - Raw, cleaned and splited input data: `data`
 
 
-## App Demo
+## [App Demo](https://siemens-use-case-1.streamlit.app/)
 You can run it locally via 
 ```
 streamlit run streamlit_app.py
