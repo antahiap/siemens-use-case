@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ## Repo info
-- Data exploration and model investigations: [`notebookes`](./notbooks)
+- Data exploration and model investigations: [`notebookes`](./notebooks)
 - Trained models: [`model`](./model)
 - Raw, cleaned and splited input data: [`data`](data)
 - Presentation: [`Doc`](./doc)
