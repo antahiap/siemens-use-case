@@ -1,5 +1,5 @@
 # siemens-use-case
-Training a model to predict future material requirements.
+Training a model to forcast future material requirements.
 
 ## Dependencies
 python = 3.10.8
@@ -11,9 +11,10 @@ pip install -r requirements.txt
 ```
 
 ## Repo info
-- Data exploration and model investigations: `notebookes`
-- Trained models: `model`
-- Raw, cleaned and splited input data: `data`
+- Data exploration and model investigations: [`notebookes`](./notbooks)
+- Trained models: [`model`](./model)
+- Raw, cleaned and splited input data: [`data`](data)
+- Presentation: [`Doc`](./doc)
 
 
 ## [App Demo](https://siemens-use-case-1.streamlit.app/)
