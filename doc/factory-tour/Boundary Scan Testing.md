@@ -1,0 +1,1 @@
+Boundary scan testing, also known as JTAG testing, is used to verify the connectivity of integrated circuits on the PCB. It allows for testing digital devices and verifying interconnections, even when components are already soldered onto the board.

@@ -1,0 +1,1 @@
+Solder balling occurs when small droplets of solder paste form on the PCB surface during the reflow soldering process. These solder balls can create shorts and reduce the reliability of the PCB.

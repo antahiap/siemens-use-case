@@ -1,0 +1,3 @@
+Solder paste is a mixture of tiny solder particles and flux . It is applied to the PCB using a [[Stencil Printing]] or [[Jet Printing]] process. The stencil ensures precise application of solder paste to the appropriate areas of the PCB, where the components will be placed.
+
+#flux **helps to clean the solder pads and components, promote solder wetting, and hold the solder in place before reflow soldering**.

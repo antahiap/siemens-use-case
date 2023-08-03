@@ -1,0 +1,1 @@
+ AOI systems can be used to inspect through-hole solder joints and component placement automatically. AOI uses high-resolution cameras and image processing algorithms to detect defects such as missing components, wrong polarity, and soldering issues.

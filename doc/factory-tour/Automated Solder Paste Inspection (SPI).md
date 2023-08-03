@@ -1,0 +1,1 @@
+SPI machines inspect the solder paste printing process to ensure proper alignment, volume, and placement of solder paste on the PCB pads before through-hole components are inserted.

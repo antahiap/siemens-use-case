@@ -1,0 +1,1 @@
+ Implementing process control measures and traceability systems helps monitor and track each step of the THT assembly process. This ensures consistency and enables quick identification and correction of any quality issues.

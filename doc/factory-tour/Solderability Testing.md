@@ -1,0 +1,1 @@
+Solderability testing is performed on through-hole component leads to ensure they have a suitable surface finish that allows for proper solder wetting during assembly

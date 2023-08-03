@@ -1,0 +1,1 @@
+ For complex through-hole components like Ball Grid Array (BGA) packages or when solder joints are not visible, X-ray inspection is used to examine the quality of solder joints. X-ray images allow inspectors to see internal solder connections and identify potential defects, such as voids or cold solder joints.

@@ -1,0 +1,1 @@
+Visual inspection is one of the primary quality control measures in THT assembly. Trained inspectors examine the solder joints and component placement to ensure they meet the specified criteria. They look for issues such as solder bridging, insufficient solder, poor wetting, skewed components, and misaligned leads.

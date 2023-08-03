@@ -1,0 +1,1 @@
+Stencils are used to apply solder paste to the PCB before [[component placement]]. Accurate stencil design and solder paste application ensure proper solder joint formation during the [[Reflow Soldering]] process.

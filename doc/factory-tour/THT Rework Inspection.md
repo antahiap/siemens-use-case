@@ -1,0 +1,1 @@
+When reworking through-hole components, inspection is performed after rework to verify that the defects have been corrected, and the solder joints meet the required quality standards.

@@ -1,0 +1,1 @@
+ Solder paste is a mixture of solder alloy particles and flux. It is a sticky material that provides a temporary mechanical bond between the components and the PCB during assembly. Before the stencil printing process, the solder paste is thoroughly mixed to ensure a consistent composition.

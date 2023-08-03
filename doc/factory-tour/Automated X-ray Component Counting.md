@@ -1,0 +1,1 @@
+This technique uses X-ray imaging to count components on reels before the assembly process, ensuring that the correct number of components is available and avoiding component shortages or excess inventory.
